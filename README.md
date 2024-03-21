@@ -25,11 +25,3 @@ To run the EtherFlow application locally, follow these steps:
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open [http://localhost:3000](http://localhost:3000) in your browser to access the application.
-
-## Contributions
-
-Contributions to EtherFlow are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
